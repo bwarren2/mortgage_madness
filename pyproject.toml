@@ -12,6 +12,8 @@ matplotlib = "^3.4.3"
 numpy-financial = "^1.0.0"
 nb-black = "^1.0.7"
 black = "^21.8b0"
+plotly = "^5.3.1"
+pandas-datareader = "^0.10.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
